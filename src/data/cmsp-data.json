@@ -1,0 +1,243 @@
+{
+  "cmsps": [
+    {
+      "id": "wegagen_capital_investment_bank_001",
+      "name": "Wegagen Capital Investment Bank",
+      "type": ["broker", "advisor"],
+      "licensedDate": "2025-05-15",
+      "status": "active",
+      "overview": "Wegagen Capital Investment Bank launched as Ethiopia's first investment bank, pioneering a new era in Ethiopia's capital market with its grand inauguration. The bank provides comprehensive corporate finance advisory, capital-raising solutions, and brokerage services for equity, debt, and treasury bond markets. It also engages in proprietary trading across equities, securities, derivatives, and foreign exchange markets. With strategic partnerships with Wegagen Bank, the Ethiopian Securities Exchange (ESX), Central Securities Depository (CSD), and the Ethiopian Capital Markets Authority (ECMA), Wegagen Capital is a pioneer in Ethiopia’s capital market.",
+      "mission": "To deliver seamless, secure, and innovative financial services, including advisory, brokerage, and proprietary trading, while fostering growth in Ethiopia’s capital market.",
+      "intialCapital": "385 million Birr",
+      "size": null,
+      "employees": null,
+      "address": {
+        "street": "Ras Mekonen St",
+        "building": "Wegagen Tower",
+        "floor": "10th Floor",
+        "city": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      "branchCount": null,
+      "website": "https://wegagencapital.com.et/",
+      "phone": [
+        "+251 11 130 9928",
+        "+251 11 130 9936",
+        "+251-11-557-0892",
+        "8867"
+      ],
+      "email": "info@wegagencapital.com.et",
+      "services": [
+        "Trading Services",
+        "Advisory Services",
+        "Client's Securities Trading",
+        "Proprietary Securities Trading",
+        "Brokerage services for equity, debt, and treasury bond markets",
+        "Proprietary trading in equities, securities, derivatives, and foreign exchange markets"
+      ],
+      "regulatoryBody": "Ethiopian Capital Markets Authority (ECMA)",
+      "licenseNumber": null
+    },
+    {
+      "id": "cbe_capital_investment_bank_001",
+      "name": "CBE Capital Investment Bank",
+      "type": ["broker", "advisor"],
+      "licensedDate": "2025-03-22",
+      "status": "active",
+      "overview": "CBE Capital Investment Bank, a public-private partnership between the state-owned Commercial Bank of Ethiopia (70%) and Dalol Capital (30%), became Ethiopia’s first private investment bank on March 22, 2025, following approval of its investment banking license by the Ethiopian Capital Markets Authority (ECMA). Admitted as the second trading member of the Ethiopian Securities Exchange (ESX) on June 4, 2025, the bank aims to enhance equity and fixed income securities brokerage services, providing unprecedented access to Ethiopia’s newly developing capital markets. Since its inception, CBE Capital has focused on investment banking services across sectors like banking, manufacturing, and real estate, preparing clients for IPOs, private placements, regulatory registrations, and mergers and acquisitions. The bank combines global expertise with local insights, leveraging a team of 100% Ethiopian staff, including diaspora professionals with decades of U.S. market experience.",
+      "mission": "To revolutionize the financial landscape by pioneering Africa's financial future, ensuring robust practices, serving client needs, bridging financing gaps, and unlocking Ethiopia's potential through strategic investment and brokerage services.",
+      "intialCapital": null,
+      "employees": null,
+      "address": {
+        "street": "Churchill Avenue",
+        "building": "CBE Headquarters",
+        "floor": "1st Floor",
+        "city": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      "branchCount": null,
+      "website": "https://cbecapitalsc.com",
+      "phone": ["+251 111 13 08 08"],
+      "email": "contact@cbecapitalsc.com",
+      "socialMediaLinks": [],
+      "services": [
+        "Investment Banking",
+        "Brokerage Services",
+        "Business advisory meeting",
+        "Transaction advisory",
+        "IPO support",
+        "Supporting investment journey",
+        "Buying and selling stocks and bonds",
+        "Private placements",
+        "Regulatory registrations",
+        "Mergers and acquisitions"
+      ],
+      "regulatoryBody": "Ethiopian Capital Markets Authority (ECMA)",
+      "licenseNumber": null
+    },
+    {
+      "id": "ethio_fidelity_securities_001",
+      "name": "Ethio-fidelity Securities",
+      "type": ["dealer", "advisor"],
+      "licensedDate": "2025-01-01",
+      "status": "active",
+      "overview": "Ethio-fidelity Securities, the first security dealer licensed by the Ethiopian Capital Markets Authority (ECMA), offers a comprehensive range of brokerage and financial services. These include equities trading for retail and institutional clients across domestic and international markets, proprietary trading to enhance market liquidity, trading in fixed income securities such as government and corporate bonds, and market research with insights to guide investment strategies. The firm is committed to driving market development with technology-driven solutions and strong regulatory compliance.",
+      "mission": "To provide superior execution and client-centric financial services, ensuring optimal investment opportunities and market growth through innovative brokerage and research solutions.",
+      "intialCapital": null,
+      "employees": null,
+      "address": {},
+      "branchCount": null,
+      "website": null,
+      "phone": [],
+      "email": "info@ethiofidelity.com",
+      "socialMediaLinks": [
+        "https://t.me/ethiofidelity",
+        "https://www.facebook.com/ethiofidelity",
+        "https://www.linkedin.com/company/ethiofidelity"
+      ],
+      "services": [
+        "Equities Trading",
+        "Own Stock Trading",
+        "Fixed Income Securities",
+        "Market Research & Insights"
+      ],
+      "regulatoryBody": "Ethiopian Capital Markets Authority (ECMA)",
+      "licenseNumber": null
+    },
+    {
+      "id": "icapital_africa_institute_001",
+      "name": "i-Capital Africa Institute",
+      "type": ["advisor"],
+      "licensedDate": "2025-01-01",
+      "status": "active",
+      "overview": "i-Capital Africa Institute is dedicated to transforming people and organizations through a range of advisory and learning solutions. The institute offers tailor-made consultancy services including Human Resources Transformation, Organizational Transformation, and Workforce Solutions, as well as cross-border programs with international certifications and exposure-based learning. It also facilitates knowledge sharing through summits, conferences, and forums at national, regional, and continental levels, and provides human capital development through standard, tailored, and certification training programs in collaboration with global partners.",
+      "mission": "To transform individuals and organizations by providing innovative advisory, learning, and knowledge-sharing solutions that drive sustainable growth and development across Africa.",
+      "intialCapital": null,
+      "employees": null,
+      "address": {},
+      "branchCount": null,
+      "website": "https://www.icapitalafrica.org/",
+      "phone": [],
+      "email": null,
+      "socialMediaLinks": [],
+      "services": [
+        "Advisory Solutions",
+        "Cross Border Solutions",
+        "Knowledge Sharing Platforms",
+        "Learning Solutions",
+        "Human Resources Transformation",
+        "Organizational Transformation",
+        "Workforce Solutions",
+        "International Certifications",
+        "Exposure-Based Learning",
+        "Education Programs",
+        "Summits and Conferences",
+        "Skill Seminars and Training"
+      ],
+      "regulatoryBody": "Ethiopian Capital Markets Authority (ECMA)",
+      "licenseNumber": null
+    },
+    {
+      "id": "deloitte_ethiopia_001",
+      "name": "Deloitte Ethiopia",
+      "type": ["advisor"],
+      "licensedDate": "2023-01-01",
+      "status": "active",
+      "overview": "Deloitte Ethiopia, part of the global Deloitte network, re-established its presence in Addis Ababa in 2023 after exiting the market in 2017. Originally established in 2012 in partnership with a local company, the firm now provides advisory services to governmental institutions, international development agencies, public sector organizations, multinationals, and local and international private companies across various sectors. With a focus on leveraging global expertise and local knowledge, Deloitte Ethiopia aims to support Ethiopia's economic growth and development.",
+      "mission": "To help clients and communities excel by providing high-quality advisory services, fostering economic growth, and maintaining the highest standards of professionalism and transparency.",
+      "intialCapital": null,
+      "employees": null,
+      "address": {
+        "street": "Minaye Corporate Office Park (Flamingo area)",
+        "building": null,
+        "floor": "2nd Floor",
+        "officeNumber": null,
+        "city": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      "branchCount": null,
+      "website": "https://www.deloitte.com/et/en/offices/ethiopia-offices/ethiopia-et.html",
+      "phone": ["+251 111 139 800"],
+      "email": null,
+      "socialMediaLinks": [],
+      "services": [
+        "Advisory Services",
+        "Consulting",
+        "Financial Advisory",
+        "Risk Management",
+        "Tax Services"
+      ],
+      "regulatoryBody": "Ethiopian Capital Markets Authority (ECMA)",
+      "licenseNumber": null
+    },
+    {
+      "id": "hst_ethiopia_001",
+      "name": "HST",
+      "type": ["advisor"],
+      "licensedDate": "2003-01-01",
+      "status": "active",
+      "overview": "HST, established in 2003 through the merger of Haile Leul Tamiru and Co, Solomon Gizaw and Co, and Tekeste Gebru and Co, is a professional services firm in Ethiopia. HST works with clients to address business growth, operational, people, financial, tax, governance, risk, learning, and compliance challenges with locally relevant solutions. The firm has grown alongside Ethiopia's dynamic economy, evolving its services to meet client needs and investing in a skilled team to deliver exceptional results.",
+      "mission": "To empower clients by providing tailored knowledge solutions, acting as trusted partners to solve unique challenges, and contributing to Ethiopia's growth through service and innovation.",
+      "intialCapital": null,
+      "employees": null,
+      "address": {
+        "street": "Ethio-China Friendship Ave",
+        "building": "Mina Building",
+        "floor": "4th and 5th Floor",
+        "officeNumber": null,
+        "city": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      "branchCount": 1,
+      "website": "https://www.hst-et.com/about/who-we-are",
+      "phone": [
+        "+251 115 52 76 66",
+        "+251 115 52 76 67",
+        "+251 915 156 522",
+        "+251 911 866 404"
+      ],
+      "email": "info@hst-et.com",
+      "socialMediaLinks": [],
+      "services": [
+        "Business Growth Solutions",
+        "Operational Consulting",
+        "Human Resources Consulting",
+        "Financial Advisory",
+        "Tax Services",
+        "Governance Advisory",
+        "Risk Management",
+        "Learning Solutions",
+        "Compliance Consulting"
+      ],
+      "regulatoryBody": "Ethiopian Capital Markets Authority (ECMA)",
+      "licenseNumber": null
+    },
+    {
+      "id": "ethio_capital_solutions_plc_001",
+      "name": "Ethio Capital Solutions PLC",
+      "type": ["advisor"],
+      "licensedDate": "2025-03-21",
+      "status": "active",
+      "overview": "Ethio Capital Solutions PLC is a premier securities investment advisory firm licensed by the Ethiopian Capital Markets Authority (ECMA) on March 21, 2025, as one of five new licensees marking Ethiopia’s historic expansion of its capital market services. The firm guides individuals, businesses, and institutions with personalized investment strategies, transaction consulting, merger and acquisition support, financial planning, and investor education, ensuring compliance with ECMA regulations for transparency and sustainable growth in Ethiopia’s evolving capital market.",
+      "mission": "To empower financial growth by providing expert advisory services, unlocking investment opportunities, and fostering confidence in Ethiopia’s capital market under ECMA’s regulatory framework.",
+      "intialCapital": null,
+      "employees": null,
+      "address": {},
+      "branchCount": null,
+      "website": "https://ethiocapitalsolutions.com.et/",
+      "phone": [],
+      "email": null,
+      "socialMediaLinks": [],
+      "services": [
+        "Investment Advisory",
+        "Transaction Consulting",
+        "Merger and Acquisition Support",
+        "Financial Planning",
+        "Investor Education",
+        "Capital Market Preparation"
+      ],
+      "regulatoryBody": "Ethiopian Capital Markets Authority (ECMA)",
+      "licenseNumber": null
+    }
+  ]
+}
