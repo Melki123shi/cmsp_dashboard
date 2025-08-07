@@ -105,8 +105,15 @@ cmps_dashboard/
 The data in `cmsp-data.json` is mock content based on publicly available sources:
 
 * **Ethiopian Capital Markets Authority (ECMA)**: Regulatory and licensing data.
-* **Ethiopian Securities Exchange (ESX)**: Market participant information.
-* **Public Filings & Press Releases**: General company info.
+* **Ethiopian Securities Exchange (ESX)**: https://esx.et/equity-market/listed-companies/
+* **Capital Market Ethiopia**: https://www.capitalmarketethiopia.com/category/exchange/
+* **i-Capital Institute**: https://www.icapitalafrica.org/
+* **Deloitte**: https://www.deloitte.com/et/en/offices/ethiopia-offices/ethiopia-et.html
+* **Ethio-Fidelity**: https://ethiofidelity.com/
+* **HST**: https://www.hst-et.com/
+* **Wegagen Capital**: https://wegagencapital.com.et/
+* **Financial Institutions Directory**: https://data.stockmarket.et/directory
+
 
 > **Note:** Data is for demonstration purposes only. Verify all licensing information with [ECMA](https://ecma.gov.et) for accuracy.
 
