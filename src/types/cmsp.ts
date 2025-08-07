@@ -27,7 +27,7 @@ export const CMSPSchema = z.object({
   intialCapital: z.string().optional(),
   employees: z.string().optional(),
   address: AddressSchema,
-  branchCount: z.number().optional(),
+  branchCount: z.number().default(1),
   website: z.url().optional(),
   phone: z.array(z.string()).optional(),
   email: z.email().optional(),
