@@ -25,12 +25,6 @@ const Statistics = () => {
       icon: TrendingUp,
       color: 'text-blue-600'
     },
-    {
-      label: 'Total Branches',
-      value: cmsps.reduce((sum, c) => sum + (c.branchCount || 0), 0),
-      icon: Users,
-      color: 'text-purple-600'
-    }
   ];
 
   return (
